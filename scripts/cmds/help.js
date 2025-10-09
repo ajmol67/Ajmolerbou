@@ -56,7 +56,7 @@ module.exports = {
 ╭──────────────◊
 │ » Total commands: ${cmds.size}
 │ » A Powerful GoatBot
-│ » Aryan Rayhan
+│ » ROBIUL ISLAM 
 ╰──────────◊
 「 Nix bot 」
     `.trim();
