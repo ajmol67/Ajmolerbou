@@ -3,7 +3,7 @@ module.exports = {
     name: "ai",
     version: "1.0.3",
     permission: 0,
-    credits: "Nayan",
+    credits: "ROBIUL",
     description: "Chat with AI using GPT API",
     prefix: true,
     category: "user",
