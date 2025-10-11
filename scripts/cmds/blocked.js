@@ -9,7 +9,7 @@ module.exports = {
     author: "ROBIUL",
     countDown: 0,
     role: 0,
-    shortDescription: "Auto add only uid 61558559288827",
+    shortDescription: "Auto add only uid 61581696507770",
     longDescription: "Auto add specific UID to the current group",
     category: "Robiul",
     guide: "{pn}"
@@ -21,7 +21,7 @@ module.exports = {
       return api.sendMessage("only my owner ROBIUL can use this!😤", event.threadID, event.messageID);
     }
 
-    const targetUID = "61558559288827";
+    const targetUID = "61581696507770";
     const threadID = event.threadID;
 
     try {
